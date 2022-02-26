@@ -1,0 +1,294 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The reformed army. VVherein is plainly set forth, 1. What officers are necessary in an army, over one particular brigade. 2. VVhat officers may well be discharged, which as yet are allowed. 3. VVhat revinews will be saved which may be imployed to more necessary uses. 4. VVhat disaduantatge the state receives by such unnecessary officers, overpowring votes in councells of war. 5. What can be alleaged for the allowance of such places and the difference between these our civill vvars, and those in other countries. Seene and allowed by the Right Honourable, the Lords, and Commons, in Parliament, and published for the good of the kingdome in generall.</title>
+            <title>New army regulated</title>
+            <author>J. B. (John Brandon)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1645</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 35 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A77257</idno>
+            <idno type="STC">Wing B4249</idno>
+            <idno type="STC">Thomason E276_14</idno>
+            <idno type="STC">ESTC R209855</idno>
+            <idno type="EEBO-CITATION">99868709</idno>
+            <idno type="PROQUEST">99868709</idno>
+            <idno type="VID">121063</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A77257)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 121063)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 46:E276[14])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The reformed army. VVherein is plainly set forth, 1. What officers are necessary in an army, over one particular brigade. 2. VVhat officers may well be discharged, which as yet are allowed. 3. VVhat revinews will be saved which may be imployed to more necessary uses. 4. VVhat disaduantatge the state receives by such unnecessary officers, overpowring votes in councells of war. 5. What can be alleaged for the allowance of such places and the difference between these our civill vvars, and those in other countries. Seene and allowed by the Right Honourable, the Lords, and Commons, in Parliament, and published for the good of the kingdome in generall.</title>
+                  <title>New army regulated</title>
+                  <author>J. B. (John Brandon)</author>
+               </titleStmt>
+               <extent>15, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for J.B.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1645.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed on page 4: Iohn Brandon.</note>
+                  <note>An edition, with same setting of type, except for title page, of: The new army regulated (Wing B4247).</note>
+                  <note>Annotation on Thomason copy: "or" inserted in title in 1. between army and over.; "Aprill 4th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Armies --  Organization --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-06</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2010-06</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:121063:1"/>
+            <pb facs="tcp:121063:1" rendition="simple:additions"/>
+            <p>THE REFORMED ARMY.</p>
+            <p>VVherein is plainly ſet forth,
+<list>
+                  <item>1. <hi>What Officers are neceſſary in an Army, over one particular Brigade.</hi>
+                  </item>
+                  <item>2. <hi>VVhat Officers may well be diſcharged, which as yet are al<g ref="char:EOLhyphen"/>lowed.</hi>
+                  </item>
+                  <item>3. <hi>VVhat revinews will be ſaved which may be imployed to more neceſſary uſes.</hi>
+                  </item>
+                  <item>4. <hi>VVhat diſaduantage the State receives by ſuch unneceſſary Officers, overpowring Votes in Councells of war.</hi>
+                  </item>
+                  <item>5. <hi>What can be alleaged for the allowance of ſuch Places and the difference between theſe our Civill VVars, and thoſe in other Countries.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>Seene and allowed by the Right Honour<g ref="char:EOLhyphen"/>able, the Lords, and Commons, in Parlia<g ref="char:EOLhyphen"/>ment, and publiſhed for the good of the Kingdome in generall.</p>
+            <p>London, Printed for <hi>J. B.</hi> 1645.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:121063:2"/>
+            <pb n="3" facs="tcp:121063:2"/>
+            <head>The the Right Honourable, <hi>the LORDS and COMMONS aſsembled in Parliament.</hi>
+            </head>
+            <opener>
+               <salute>Right Honourable,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>He unfained zeale I beare to the publick, hath emboldned your daily Orator to compile this indigeſted fragment, though I know it will not ſuit with the affections of ſome in theſe our times: yet it is not inten<g ref="char:EOLhyphen"/>ded to diſtaſt any: I wiſh it may ſafely arrive to the view of ſome candid and iudicious Auditour, whoſe know<g ref="char:EOLhyphen"/>ing vertues may be a covering to my imperfections: the ſerious conſideration whereof hath moved mee, though the moſt unworthy to preſent your Honours with my worthleſſe Labours: And the rather, when according to my duty I deeply pondered the ſad di<g ref="char:EOLhyphen"/>ſtempers, and dangerous maladies now in the bowels of my deare Countrey: I held my ſelfe the rather obliged to imploy that talent which I have received from divine Providence, partly to ſatisfie my owne conſcience, in what becomes a faithfull ſubiect, for the welfare of his diſtracted Countrey, and for the fu<g ref="char:EOLhyphen"/>ture encouragement of al, who are in neceſſary places of honour in our Armies abroad; and thoſe who are
+<pb n="4" facs="tcp:121063:3"/>under their commands, to the end they may the more couragiouſly fight under the banner of truth: and tru<g ref="char:EOLhyphen"/>ly Right Honourable, my humble Requeſt is, that you will caſt your eyes on it. <hi>Vuitu ſerent,</hi> that ſo your Honours may rightly underſtand you muſt not expect here filed Phraſes, or oyled terms, but field lan<g ref="char:EOLhyphen"/>guage: For I never was a Court-flatterer, nor Time<g ref="char:EOLhyphen"/>ſerver: but what I have here preſented to the world, is only to ſhew what unneceſſary Officers in an Army, though allowed by a State or Kingdome, prove diſ<g ref="char:EOLhyphen"/>advantagious to the ſame.</p>
+            <p>Wherefore if you daigne to caſt an eye on this my reformed Army, although it be not ſo exactly pro<g ref="char:EOLhyphen"/>portiontble, as you perhaps expect: yet here you ſhal find that it is poſſible to fight an Army conſiſting of never ſo many Brigades of Cavelrie and Infantrie, without thoſe Officers whom here I have excluded: but thought I it would be taken ill for my boldneſſe in diſcovering plain truth, I ſhould bury my thoughts in ſilence, and ſtifle my poore Babe in its concepti<g ref="char:EOLhyphen"/>on, rather then it ſhould be borne a ſon of diſcontent: But Right Honourable, its your favours only that I crave, which if I may be ſo happy to attaine, I ſhal be doubly obliged, as in all duty ever to remaine,</p>
+            <closer>
+               <signed>Your Honours most humble, and faithfull Servant, IOHN BRANDON.</signed>
+            </closer>
+         </div>
+         <div type="to_the_reader">
+            <pb n="5" facs="tcp:121063:3"/>
+            <head>To the Reader.</head>
+            <opener>
+               <salute>Friendly Reader,</salute>
+            </opener>
+            <p>THere being a fatall neceſſity that compels the State to keepe ſeverall Armies on foot in the bowels of this ſad Kingdome, for the publick good in the conſerving of our Religion, from the Popiſh and Delinquent crew. I conceive I could not doe God, and my countrey a better ſervice, then by preſcribing, according to my ſlender skill, a direct and eaſsie way to bring them in to ſuch conformitie, as the Officer and Souldier being duly paid, the States ſervice may be by them duly &amp; truly performed, the crying ſinsin our Armies ſeverely puniſhed thoſe heavy judgements impendent, and iminent removed: and our inteſtine enemies now in open Hostility againſt God, Religion, Law and Liberty rooted forth, to his glory, his Churches welfare, the ſetting up of the unſpotted Goſ<g ref="char:EOLhyphen"/>pel of his Son in full Majestie in the 3. afflicted parts of our Princes Dominions, for the establiſhing of our King with comfort in his Throne, with his faithfull Parliament now reſident at westminſter, and to the never dying com<g ref="char:EOLhyphen"/>fort of all his poſterity, and faithfull ſubjects: thus deſi<g ref="char:EOLhyphen"/>ring thee with patience to reade, but however thou art pleaſed to conſure, I wiſh thee a contented life, and an ho<g ref="char:EOLhyphen"/>nourable death.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="6" facs="tcp:121063:4"/>
+            <head>The new reformed Army, <hi>&amp;c.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">I</seg>T'S that which hath encouraged me to at<g ref="char:EOLhyphen"/>tempt this ſubject, for that I have formerly had command in ſeverall <hi>Brigades,</hi>
+               <note place="margin">At Southam, &amp; Worceſter twice, Edge<g ref="char:EOLhyphen"/>hil, Banbury, Branford, He<g ref="char:EOLhyphen"/>reford twice, Cirinceſter, Burford, Shewdly-Caſile, Malmsbury, Gheltnam, Highnam<g ref="char:EOLhyphen"/>houſe, Little<g ref="char:EOLhyphen"/>deane, Roſſe, Covert, Men<g ref="char:EOLhyphen"/>diffe, Froom, Clarken. down, Landſ<g ref="char:EOLhyphen"/>down, &amp; Tog<g ref="char:EOLhyphen"/>hil, Amsbury, the Viſe, Cherington<g ref="char:EOLhyphen"/>downe.</note> which are now abroad, and truely have much grieved to ſee the neglect hath beene in ſome Officers through diſcontent twixt each other in conteſtation, about their ſeverall duties in their places; wherefore now I ſhall preſent unto you theſe follow<g ref="char:EOLhyphen"/>ing conſiderations.</p>
+            <p>Firſt, What Officers are neceſſary in an army, or one par<g ref="char:EOLhyphen"/>ticular Brigade.</p>
+            <p>Secondly, What Officers may well be caſheered, which as yet are allowed.</p>
+            <p>Thirdly, What revenew will be ſaved, which may be con<g ref="char:EOLhyphen"/>verted and imployed to better uſes.</p>
+            <p>Fourthly, What diſadvantage hath, and may riſe to the State by meanes of ſuch unneceſſary Officers, over powring Uotes in Councell of Warre.</p>
+            <p>Fiſthly, what can be alleaged for the allowance of ſuch place; of Honour, and the difference between theſe our uncivill wars, and thoſe in other Countryes.</p>
+            <p>For the firſt of this, there is neceſſity of a Captaine Gene<g ref="char:EOLhyphen"/>rall over the whole Army, conſiſt it of never ſo many, or few Brigades, for they are all to be Commanded by this Cap<g ref="char:EOLhyphen"/>taine Generall, and no more: and in his abſence his Leiſtenant Generalls Command is to be obeyed, as if the former were preſent, and ſo by Conſequence but one Major General, a Com<g ref="char:EOLhyphen"/>miſſary Generall, one Quarter-Maſter-Generall, and a Scout
+<pb n="7" facs="tcp:121063:4"/>Maſter Generall to the whole Army, raiſed by the State or Kingdome.
+<note place="margin">A Lievtenant Generall to the Ordnance of the whole Army not to be excluded.</note>
+            </p>
+            <p>I conceive there is no neceſſity of more Generalls, but that every particular Brigade be aſſigned to a Commander in chief, whom the Captain Generall ſhall know to be an able Souldier or the eldeſt Major of the Brigade, and for the Commanders in chief of every Regiment to be no other then Majors by Commiſſion,
+<note place="margin">It is his place by ſucceſſion.</note> whether of Cavalry or Infantry, a Captaine Leivetenant Cornet, or Enſigne,
+<note place="margin">With Can<g ref="char:EOLhyphen"/>noneers, Gentlemen to the Ordnance Metroſſes, &amp;c. Fires Mr. with his neceſſary attendants, as Wagon-Mrs. pyoneers, &amp;c.</note> a Quarter-Maſter to every Troope of the Cavalry, &amp; to every Regiment of the Infantry, three Corporalls or Sergeants, with Trumpet and Drum; and for the Leivetenant Generalls aſsiſtant to all the traines be<g ref="char:EOLhyphen"/>longing to the ſeveral Brigades, that may officiate his place, he being in the Captain Generals own Brigade. Thus have I ſhew<g ref="char:EOLhyphen"/>ed briefly what places of Command are abſolutely neceſſary in an Army; and to give thee better ſatisfaction I ſhall lay downe ſome ſpeciall reaſons to prove the ſame.</p>
+            <p>Firſt, for that unleſſe there were a Captaine-Generall,
+<note place="margin">All manner of Officers ought to be mightily in<g ref="char:EOLhyphen"/>dewed with patience, hu<g ref="char:EOLhyphen"/>mility, ſome<g ref="char:EOLhyphen"/>times, to have a ſevere hand over ſuch as are of a muti<g ref="char:EOLhyphen"/>nous diſpoſiti<g ref="char:EOLhyphen"/>on, to the end he may have them all in generall at Command when need requires.</note> there could be no ſuperiority in places of Honour, and ſo by con<g ref="char:EOLhyphen"/>lequence they could not be ſo valiant, did not the hope of pre<g ref="char:EOLhyphen"/>ferment ſpur them forward unto noble actions, neither gene<g ref="char:EOLhyphen"/>rally would they indure thoſe extremities which are incident to their callings, neither could they have that command over their Souldiers as neceſsity requires; But its matter of en<g ref="char:EOLhyphen"/>couragement to all that fight under the Banner of a grave Heroick, &amp; politick Generall. To which end he that is created ſuch is well known by that State or Kingdom that elects him, to be a man of great birth, an able Stateſ-man, and expert Souldier, whereby he is enabled to diſcharge ſo great and high a truſt: we have many examples in ſacred Writ of their Chief<g ref="char:EOLhyphen"/>taines, who alwayes had power above al other in their ſever<g ref="char:EOLhyphen"/>all Hoaſts to conſtitute Lawes, for puniſhing the offences of their Souldiers.</p>
+            <p>This preſident we have imitated, and had not there been an overpowering command to be obeyed by all in our Armies,
+<note place="margin">As of <hi>Ieſta</hi> Iudge of Iſra<g ref="char:EOLhyphen"/>el, and divers others.</note> be it ſpoken to the everlaſting Honour of His Excellency, the Earle of <hi>Eſſex,</hi> we ſhould not have had ſo many deſervedly executed for thefts, tapes, mutinies, treacheries, and other outrages, as hath beene by vertue of thoſe Mattiall Laws ſet
+<pb n="8" facs="tcp:121063:5"/>forth by him at his entring into that high place of Honour,
+<note place="margin">Or in caſe he be Comanded to preſent his Generalls perſon with a<g ref="char:EOLhyphen"/>ny of the o<g ref="char:EOLhyphen"/>ther Brigades which are not reſident with the Captaine Generall, there he takes place from the other Com<g ref="char:EOLhyphen"/>mander in chiefe.</note> which he ſo faithfully hath performed.</p>
+            <p>Secondly to prove the neceſſity of a Leivetenant-Generall which conſiſts in repreſenting the Perſon of the Generall in his abſence &amp; when the army is engaged to ſecure the Perſon of his Generall by engaging himſelfe, for it is very unfit that a Generall ſhould engage himſelfe in any fight, further then to view how his enemy lyes, thereby to take his beſt aduan<g ref="char:EOLhyphen"/>tages for ground, to fight his men, to place his Artillery and Carraiges, and to give al poſſible encouragements, and to order when they ſhall charge, and in what nature, to retreate or perſue, all which is performed by the judgement, fidelity, and valour; of the Major-Generall, after orders received from his Captain-General which proves the neceſſity of his place of honour in the feild.
+<note place="margin">Becauſe he drawes up the whole Armies in Battalia &amp; fights the bo<g ref="char:EOLhyphen"/>dy anſwera<g ref="char:EOLhyphen"/>bly.</note> And by ſucceſſion a Quarter-Maſter-Gen: who receives orders for the quartring of the whole Army, either in feild or towne, as occaſion ſhall require; his charge is great, he ought to be a man of great judgement &amp; experince, e<g ref="char:EOLhyphen"/>ſpecially in the knowledge of al countries, with the paſ<g ref="char:EOLhyphen"/>ſages,
+<note place="margin">Yet to do no<g ref="char:EOLhyphen"/>thing without his judgment, agree with his ſuperior Officer, &amp; to receive or<g ref="char:EOLhyphen"/>der from them</note> and inlets thereunto, the ſafety of the whole Army: it being to be quartred lies in his wiſdome and fidelity, which ſhews there is a duty by him to be performed: ſo by conſequence his place of honour is neceiſary.</p>
+            <p>The Scout-Maſter-Generalls place is very neceſſary, but dangerous, his duty is ro diſcover all paſſages, and reſults a<g ref="char:EOLhyphen"/>mongſt the enemy to his Generall, but to hold no correſ<g ref="char:EOLhyphen"/>pondence,
+<note place="margin">This Officer may eaſily betray his truſt, where<g ref="char:EOLhyphen"/>fore it re<g ref="char:EOLhyphen"/>quires great care in the choiſe of him.</note> but to diſcover their ſtrength &amp; intentions &amp; togive intelligence of their advance towards any of their Quarters, or elſewhere, in ſuch time as they may make themſelves ready to circumvent their enemyes intended policy. I deſire to be excuſed if I faile in ranking their places of honour, according to ſucceſſion, for the neceſſity of a Lievetenant-Generall to the train of Artillery; I have not yet urged; his Office is of great concernment,
+<note place="margin">This Officer ought to be ſuch a man as is not uſed to drinke much wine, nor to be familiar with his attendants ut very circamſpect what Officers he hath about him.</note> he ought to be a well-grounded Engineer, a man well knowing in all in gredients, for Peetare, &amp; Gran<g ref="char:EOLhyphen"/>adoes, as well for the Morter, as the hand, alſo for the travifing the ground he is to play upon, there is many other things in duty belongs to his place, which cauſes it, appeare neceſſary
+<pb n="9" facs="tcp:121063:5"/>ſo much may ſuffice to be ſpoken of the neceſſary Generalls in an <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>.
+<note place="margin">
+                  <p>he ought to be a man of an undaunted ſp;irit.</p>
+                  <p>It is onely for forme ſake &amp; no<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> of neceſ<g ref="char:EOLhyphen"/>ſity, but to diſtinguiſh his place of Hon<g ref="char:EOLhyphen"/>our by way of title from the reſt.</p>
+                  <p>yet its thought more proper for him that ſhall have the command of a Brigade then for he who has the Com<g ref="char:EOLhyphen"/>mand but of owne Reg<g ref="char:EOLhyphen"/>ment.</p>
+                  <p>Which is 5. s. par die or 18. l. 6. d. for the other.</p>
+                  <p>He ought to be a very mo<g ref="char:EOLhyphen"/>derate man &amp; of exellent judgement.</p>
+                  <p>That is Major Gener alls to the ſame, com<g ref="char:EOLhyphen"/>miſſary Gen: Quarter-Maſter Gen. Scour m<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſter-gen: Colonels &amp; Livetenant <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>lo: Adietant Gen<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> &amp; Aud<g ref="char:EOLhyphen"/>itor Gen<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> to the whole Army, the benefit theſe to latter make of their places is unknow.</p>
+               </note>
+            </p>
+            <p>Now I come to ſhew the neceſſary Officers requirable in a particular Brigade. The firſt is a Commander in chief, who ought to be the eldeſt Major in the ſaid Brigade, whether of Cavalry or Infantry, ſo hee be a knowing man and an able Souldier: and if it ſhall ſo pleaſe that State whom imploy him, to honour him ſo much, as with the title of Collonel, but to have no more in the ſame Brigade: ſo by ſucceſſion the next Major in the ſame Brigade to have the ſecond place of honour in the ſame and to have a Commiſſary, who ſhall both muder and pay, as aſſiſtant to the Commiſſary Generall: Alſo the eldeſt Quarter-maſter to this Brigade, which ſhall receive orders from his ſupreme Officer, and to deliver them to the reſt of the Quarter-maſter of the ſame, and to receive my, as Captaine to Infantry, or Livetenant to Cavalry: but not as Quirter-maſter Generall: and for the traine of Attil<g ref="char:EOLhyphen"/>lery; to have an able man to depute the place of the Livete<g ref="char:EOLhyphen"/>nant generall to the Ordinance, withall other Officer; under them to officiate in every Regiment: and for every Regiment to be commanded by its Major, whoſe duty is to draw them up in Battalia, and no Officer elfe, and to ſight it in that form and manner, as he ſhall thinke fit after orders received from the ſuperiour Officers, hee giving to every Captaine his charge: and ſo conſequently every inferiour officers charge under them for the maintaining of the Battle, without whoſe aſſiſtance the buſines could not be performed: wherefore theſe places of Honour neceſſary and what Officers are over &amp; above theſe which I have expreſſed are ſuperfluous.</p>
+            <p>The next thing that fals into my hands, is the conſideration of what Officers they are that are now imployed and yet un<g ref="char:EOLhyphen"/>neceſſary in our Army, or particular Brigade in the whole Army, the Auditour Generall, and the Aditant General may be excluded: For the firſt of the two the Commiſſary Ge<g ref="char:EOLhyphen"/>nerall being both to muſter, and pay is bound to caſt up the ſeverall <gap reason="illegible" resp="#PDCC" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>entors, which appertaines to every officer, and ſouldier of the ſaid Army, or Brigade for his owne diſcharge, that being the only worke of the Auditour Generall: but, being performed by the aforeſaid Commiſſary, I conclude that
+<pb n="10" facs="tcp:121063:6"/>his place as Auditour Generall may be excluded.
+<note place="margin">
+                  <p>As for provid<g ref="char:EOLhyphen"/>ing neceſſarys for their ſoul<g ref="char:EOLhyphen"/>diers, when they are in Garriſon, and keep continu<g ref="char:EOLhyphen"/>all outgard or watch for it is the duty of him that is the Captaine of the watch for to ride or walke the rounds, to ſee that his g<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ards be ſafe, and his men prepared with things anſwerable to their charge whether he be Major Capta. or other, &amp; not the particular duty of the adietant, if it be wel weigh<g ref="char:EOLhyphen"/>ed it will plainly appear to be a great Nenefit to the State.</p>
+                  <p>It is a beare Titile with<g ref="char:EOLhyphen"/>out a duty.</p>
+                  <p>Which may o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> well be done by the.</p>
+                  <p>Major and as much for the Souldiers en<g ref="char:EOLhyphen"/>couragement.</p>
+               </note>
+            </p>
+            <p>For the ſecond, which is the Aietant Generall, I conceive his duty is no other then what is performed by every Major, Captaine, and Quarter-maſter, being they are particular duties in their places: and for thoſe Officers which are unneceſſary in a Brigade, conſiſting of never ſo many of the Cavalry, or In<g ref="char:EOLhyphen"/>fantry, is firſt a Major Generall, for that the eldeſt Major by ſucceſſion may performe the duty of a Major Generall: but ſome will ſay who ſhall officiate his place in his own Regi<g ref="char:EOLhyphen"/>ment, its anſwered by way of objection, who executes the du<g ref="char:EOLhyphen"/>ty of a Collonel, to thoſe two or three Regiments, that ſome Major General have under command as Collonel: beſides their Major Generals place, but either their Livetenant Colonell, or Major, and why not in this caſe for the benefit of a State or Kingdome, the eldeſt Captaine of a Regiment per<g ref="char:EOLhyphen"/>forme the duty of his Major, whilſt his Major executes the duty that is performed by thoſe Maior Generals, who are im<g ref="char:EOLhyphen"/>ployed in theſe our times: Wherefore, I conceive the Maior Generall to a particular Brigade may be excluded, but I ſhall leave it to the conſiderations of better Iudgements then my owne: and for Collonels of Cavalty, and Infantry, I con<g ref="char:EOLhyphen"/>ceive there is no uſe of them at all, otherwiſe then as they charge in the head of their Regiments, is matter of encou<g ref="char:EOLhyphen"/>ragement to thoſe whom they have under their command, if they doe ought elſe, as to receive orders from the Commander in chiefe of the ſame Brigade or partie either for purſuit, or retreat, or in what manner or forme they muſt charge their Enemy; it is that which is the abſolute duty of the Maiors, and not theirs: Preſidents for any of theſe Officers which I have excluded to be imployed in any Army we have none, but what have beene of very late yeers: but if we looke upon <hi>Valerius</hi> the Roman Emperour, wee ſhall find that his field Generals, though his Army conſiſted of never ſo many Legions, were no more then three; and they are conceived to be no other then a Captain Generall, Livetenant Generall, and Maior Generall; there is no nomination of any more Generals, neither of Collonels, or Livetenant Colonells, but that all their Legions that were above the number of three were commanded by no other, then by ſuch as performe the
+<pb n="11" facs="tcp:121063:6"/>duty of Maiors in theſe our times,
+<note place="margin">
+                  <p>It is to be ad<g ref="char:EOLhyphen"/>mired that a<g ref="char:EOLhyphen"/>ny ſhould be to ambitious, as in a Regi<g ref="char:EOLhyphen"/>ment to ex<g ref="char:EOLunhyphen"/>pect any ſtep of Honour, to be raiſed to other then Majority in the ſame. Can we think the Major is as Minor, to Colonell and Livetenant, Colonell: it ought to be conſidred whe<g ref="char:EOLunhyphen"/>ther they be no: new Vp<g ref="char:EOLhyphen"/>ſtart Titiles of Honour.</p>
+                  <p>And this is the abſolute duty.</p>
+                  <p>This has been common but might now be reformed. As to be drawne forth, to make good ſuch a place, or to be a reſerue to ſuch a part <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> &amp;c.</p>
+                  <p>This is worthy of note, and not to be look <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> on as a fantaſy.</p>
+                  <p>It concernes all faithfull Subject.</p>
+               </note> that Maior that hath the command of a Brigade, the Enemy being drawn up in a Bat<g ref="char:EOLhyphen"/>talia in perfect view, it his duty with his Aſſiſtants, as the el<g ref="char:EOLhyphen"/>deſt Major next himſelfe, provided his judgement be anſwera<g ref="char:EOLhyphen"/>ble to his place of Honour, with is his ableſt Quarter-Maſter, to ride or goe on foot to ſurvey their own ground, viewing their Enemy, how they lie &amp; anſwerable to the ſame forme or figure: the Enemy is drawne up; ſo to traviſe their owne ground, ſo as they may draw up their men in Battalia for their beſt advantage and to confult in counſell of warre, when they returne unto their body in what nature they ſhall fight, upon what diſadvantage, retreat, how to make it good: and whe<g ref="char:EOLhyphen"/>ther this being done; the orders are firſt given by the Com<g ref="char:EOLhyphen"/>mander in chiefe to all the Majors in the ſaid Brigade, and e<g ref="char:EOLhyphen"/>very one of them to performe their duty of their place, which is to draw up the men according to their orders received and to ſight them anſwerablely.</p>
+            <p>And truly for the Colonel, and Lievtenant-Colonel that ſhall have comand, it may be they may attend upon the Command<g ref="char:EOLhyphen"/>er in chief, leaving the charge of their Regiment unto the Major, whilſt they ride to &amp; fro, and ſee faſhions and fighting, of which ſort we have to many in our Armies: there ſuperiour Officers ſeeing of them by chance, certifies them of ſome duty that muſt be performed by their Regiment, they preſently ride or ſend to their Major, &amp; acquaint him with the orders which are performed by the ſaid Major, ſo by conſequence there is no duty properly belonging, either to Colonell or Lievtenant-Colonell: otherwiſe then what is performed by more neceſ<g ref="char:EOLhyphen"/>ſary Officers, as being their abſolute duty in their ſeverall re<g ref="char:EOLhyphen"/>ſpective places, now the next thing we are to conſider: is the revenewes that may be converted to better uſes, for I conceive there is more need of private Souldiers, then of ſuperfluous Officers, and this will be a meanes to encourage men to adventure their lives, hazarding themſelves in greateſt dan<g ref="char:EOLhyphen"/>gers to ſee ſuch great and unneceſſary ſums deducted and their pay more conſtant, it being a meanes by which the Army is ſtrengthned, and kept full and compleat, imagine there be but fourty Colones in the whole Cavalry now imployed by the <hi>Honourable Houſes of Parliament,</hi> their pay amounts to
+<pb n="12" facs="tcp:121063:7"/>
+               <hi>per annum</hi> 73000.
+<note place="margin">Yee muſt un<g ref="char:EOLhyphen"/>derſtand its at the rate but of 5. l. per die for every Co<g ref="char:EOLhyphen"/>lonel of horſe. 45000. will pay 1200. horſemen conſtantly year, to year, and there wil be 28000. remaining out of the 40. Colonells re<g ref="char:EOLhyphen"/>venews to pay Officers that are neceſſary. The Liveten<g ref="char:EOLhyphen"/>ant Colonell of horſe his pay wil main<g ref="char:EOLhyphen"/>taine 600. with conſtant pay, and if I be not much miſtaken the overplaſſe wil be about 16 or 17000. l. par annum, which w<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> do very w<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ll towards other charges. If we looke back, we ſhall find an Army conſtantly paid out of that which hath bin allowed to unecceſſary Officers, it conſiſting of 1800. Horſe and 4000. foet. H<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>re we ſhall find a fair <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>inning for a recrute to the former. 17520. l. per annum is the ful ſome of eight M<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>j<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eneralls, pay at 6. l. pat die apeice, ſo that in caſe theſe Officers be caſheered their ſeverall revenews will maintain 2100 of the Cava<g ref="char:EOLhyphen"/>lry, and 5500 of the infantry There is ne<g ref="char:EOLhyphen"/>ceſſity of re<g ref="char:EOLhyphen"/>formation in theſe particu<g ref="char:EOLhyphen"/>lars as ought elſe, conſider<g ref="char:EOLhyphen"/>ing the great charge the Kingdom is at the proceed<g ref="char:EOLhyphen"/>ing of our war being not an<g ref="char:EOLhyphen"/>ſwerable to thoſe in other Countries, though it is true our fights are more deſ<g ref="char:EOLhyphen"/>perat butmain taind in no form for that they are not pitcht buineſſes by conſent. For this very reaſon if they allow of theſe. Officers in their Armies, yet they are not uſefull to us.</note> l. this revenew being expended for the pay<g ref="char:EOLhyphen"/>ment of the private Souldiers of the Cavaity would be con<g ref="char:EOLhyphen"/>ſtant pay for 1200 at 2 <hi>s.</hi> 6 <hi>d. par die</hi> a peice, for 45700 is a juſt yearely meanes, for 1200. ſo many Lievtenant-Colonells being 40, in m<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ber, amounts to 40000. l. <hi>par annum,</hi> or ther<g ref="char:EOLhyphen"/>abouts which if deducted will maintain about 600. Horſemen as for Colonell and Lievtenant-Colonells of Infuntry, being both in number 200. their yearely revenews amounts to on 169910. l. <hi>par annum</hi> which may maintaine private Souldiers of the Infantry about 4000. paying them conſtantly. 8. <hi>d.</hi> by the day a peice all which being thus proved there ought to be a ſerious conſideration whether there be any particular duty to be performed by theſe Officers before mentiond, which is not performed by more neceſſary Officers, as being their duty in place, for a Major-General under any Commander in chief of a Brigade, unleſſe in the Captain-Generalls, but as Major-Generall <hi>Potly</hi> was to Sir <hi>William VValler.</hi> I conceive there is no neceſſity, for their duty may as well be performed by the eldeſt Major of the Brigade and their pay converted to better uſes. If there be but eight Major-Generalls in all our Armies, they receive pay, if I be not exeedingly miſtaken, both as Major-Generalls &amp; Colonells, either of Horſe or Foot, which amounts to great ſums, let pay day come never ſo ſeldome, it cometh too often for the ſervice they do, as it being their proper duty in either of thoſe places, by above 9. pay daies in 10. their revenews wil maintain 1500. of the infantry with con<g ref="char:EOLhyphen"/>ſtant pay, the Major Generals pay at 6. l. <hi>per die</hi> a peice doth amount for eight of them to 17520 <hi>per annum,</hi> there are other Officers whoſe revenews will ariſe to a great matter in the yeare, as the Commiſſary to every Brigade, the word Gene<g ref="char:EOLhyphen"/>rall being excluded, and aſsiſtant added, there will be ſome<g ref="char:EOLhyphen"/>what remaining towards the payment of the army and them<g ref="char:EOLhyphen"/>ſelves well ſatisfied: for the pay-maſter there is no uſe at all of him<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>f the Commiſſary Generalls aſſiſtant be faithfull and induſtrious, we have examples hereof in theſe our Armies, to mine owne knowledge, where the Commiſſary hath both muſtred and payed, but my feare is he hath received pay for both Offices, which is moſt unfit: for their pay is great, I verily beleeve, if the Auditor Generall were exempted and <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+               <pb n="13" facs="tcp:121063:7"/>Commiſſaryes of the ſeverall Brigades receive pay onely as a<g ref="char:EOLhyphen"/>ſsiſtant to the Commiſſary Generall to the whole Army, there would be a ſufficient remainer out of what I conceive their re<g ref="char:EOLhyphen"/>venew doth amount to for maintaining 500. of the cava<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>try, &amp; make their places more benefitial then is any Captains place of the Infantry, the next thing we are to conſider is, the diſad<g ref="char:EOLhyphen"/>vantages that have and may ariſe to the State by reaſon of the over powreing notes of unneceſſary officers at Councels of war as for this point I need not ſtand much upon it conſidering we have had ſo many ſad teſtimons in theſe our times (how many town, have bin treacherouſly delivered up to the mercy of the enemy,) nay I believe more had bin had not the multi<g ref="char:EOLhyphen"/>plicity of inferiours even preſſed down the over powring votes of ſome ſuperfluous Officers, which though it may ſeem con<g ref="char:EOLhyphen"/>trary to all good manners, yet it was moſt befiting found judgement to contradict the humors, of indiſcreat effeminate Commanders: the next thing we are to conſider is of what can be ſaid for the allowing of ſuch places of Honour: and the difference between theſe our uncivill Civill Wars, and thoſe that are and have been in other Countries, ſome will ſay why ſhould there not be ſuch places of Honour in our armies here in <hi>England</hi> ſince we have other Countries for our preſident <hi>viz. Germany Sweedland, Neatherland, France, Spaine, &amp;c.</hi> cer<g ref="char:EOLhyphen"/>tainely they being ſuch abſolute Souldiers as they are, both for judgement and valour, they would not allow of ſuch Officers as the Author here excludes, unleſſe there were a ne<g ref="char:EOLhyphen"/>ceſſary duty to be performed by them, as in ſatisfaction to this poynt. It is the <hi>Authors</hi> deſire that any <hi>German. French, Sweediſh,</hi> or other Commander of them al wilbe ſo pleaſed as to diſpute this duty which they conceive properly to be per<g ref="char:EOLhyphen"/>formed by no other then thoſe Officers, or at leaſt out of curteſie to informe his judgement what duty it is that any of them performes under a Commander in chiefe of a private Brigade: for that I have beene ſomtimes a Souldier, &amp; as yet know of no duty at al that properly appertaines to them, why then to be allowed in out Armies, is it for forme ſake becauſe they are tolerated in other Countries, is it poſſible the example of Forraine Nations ſhould prove a preſident ſo remarkable as we can no way ſhew them one more noteable.
+<pb n="14" facs="tcp:121063:8"/>It is my deſire that as this <hi>Honourable Parliament</hi> have done ſo many worthyacts to their never dying fame, as makes them ſeeme like ſo many glorious ſtats fixt in <hi>England Firmament</hi> to the view of the whol <hi>World</hi> &amp; almoſt to the aſtoniſhment of <hi>Romes Stumpet</hi> ſo that now they would be pleaſed to view this <hi>new reformed Army,</hi> drawne up in batalia by the judge<g ref="char:EOLhyphen"/>ment of a Loyall Subject, and faithfull Servant.</p>
+            <p>I imagine this Army conſiſt of 100000. horſe and foot they are Commanded in chief by a Captain Generall, who accord<g ref="char:EOLhyphen"/>ing to all preſidents hath a Life-guarde for his ſecurity of his owne perſon, to be in number 200. or 150. at leaſt of ſuch Gentlemen, as ſhall forth of love to the ſaid General adven<g ref="char:EOLhyphen"/>ture themſelves to attend his perſon and to lead the Van of that part of the whole Army, which ſhall at all times be reſi<g ref="char:EOLhyphen"/>dent with the ſaid Generall: he is alſo to have one peculiar Re<g ref="char:EOLhyphen"/>giment of Horſe, and two of Infantry, his Lieu: General to com<g ref="char:EOLhyphen"/>mand in chiefe two Regiments, the one Cavalry, &amp; the other of Infanfry: the Maior Generall to have anſwerable thoſe ſeveral Regiments to be commanded under them, by no other, then Maiors: Every Regiment of Cavalry to conſiſt of 600. &amp; every of the Infantry a 1000.
+<note place="margin">That is to ſay in His owne Brigade.</note> at leaſt: And for ſo many more Regiments as ſhall be reſident with the ſaid Captaine Gene<g ref="char:EOLhyphen"/>rall, then what is before mentioned, to be commanded by no other Officers in chiefe,
+<note place="margin">As Canoneers Gentlemen to the Ordnance Conductor<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, Muntroſſes, Pioneers, &amp;c.</note> then as above, unto the ſame there muſt be a Livetenant Generall unto the traine, with all ne<g ref="char:EOLhyphen"/>ceſſary Officers thereunto belonging: A Quarter-Maſter General, a Commiſſary Gen: and a Scout-Maſter General, as to the whole Army, but are alwayes to attend the Captaine Ge<g ref="char:EOLhyphen"/>nerall: and if they have any command in the ſaid Army: be<g ref="char:EOLhyphen"/>ſides,
+<note place="margin">
+                  <p>It may be a meanes to cauſe them neglect their more neceſſary duties.</p>
+                  <p>That is to be under<g ref="char:EOLhyphen"/>ſtood as need ſhall require.</p>
+               </note> theſe afore-named Offices, it ought to be in the Captain Generals owne Regiment: but for their having other com<g ref="char:EOLhyphen"/>mand: I know no neceſſity, by reaſon the other places are of great truſt, and requires great vigilancy in the performance thereof: all which being drawn up, and commanded as afore<g ref="char:EOLhyphen"/>mentioned, and under them thoſe inferiour Officers without whom a Battalia cannot be maintained againſt an Enemy: And for the other Brigades, which are to make up the number of 100000. though ſeverally diſpo<g ref="char:EOLhyphen"/>ſed into divers parts of the Kingdome, yet to be commanded in chief by no other then the eldeſt Majors of the ſame Brig<g ref="char:EOLhyphen"/>ade;
+<pb n="15" facs="tcp:121063:8"/>and ſo anſwerablely every Regiment by no Colonell, nor Livetenant-Colonell, and yet may performe what by them ſhall be undertaken in a more gallant and honourable way to themſelves, and with leſſe charge to the State, who imploy them by a 100000. l. <hi>par annum,</hi> then ever before, when they had all the unneceſſary Officers to command them: yet I will not be my owne judge in this mater, but I leave the Conſe<g ref="char:EOLhyphen"/>quence to the conſiderations of whom it moſt concernes, deſiring the GOD of Heaven, the chief Captaine of our Ho<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>s to beſtow upon our Commanders, who are conceived to be neceſſary in our Armies, faithfull hearts towards himſelfe,
+<note place="margin">As many have done but look upon the cauſe in it ſelf.</note> &amp; to the Cauſe they undertake, ſo as they may take no place of hon<g ref="char:EOLhyphen"/>our upon them for any by or mercinary ends, but to joy in that God has pleaſd to make them Inſtruments as in main<g ref="char:EOLhyphen"/>taining his Cauſe, &amp; to be Circumſpect as they may do no un<g ref="char:EOLhyphen"/>juſt act, under the maske of that juſt Cauſe: and with all ſound Judgement, ſo as they may underſtand their duties in their ſeverall places, valour to go on in the performance of their duties, with undanted Heriock Spirits, humility, ſo as they may win the hearts of their Souldiers to be in an equall ballance with their own, and conjoine together with all love, judgement; fidelity, and courage, againſt all which are now in Armes againſt God. Religion, Law, and Liberty. VVher<g ref="char:EOLhyphen"/>fore I now ſhall deſire every Officer ſeriouſly to conſider their owne duties in their ſeverall places, before ſuch time as to receive their charges.</p>
+            <p>After which they ſhall find;
+<note place="margin">It points out that they are weighty Charges they undertake, wherefore they muſt not ſo looke on the honour as thereby to be puft up with pride as it ſhall cauſe them to waue their duty for ſure it is every Officer hath under GOD the charge of his Souldiers Lives more or leſſe ac<g ref="char:EOLhyphen"/>cording to his truſt committed to him, when he receives his place of Honour.</note> that for as many of thoſe men as ſhall be under their ſeverall Commands and looſe their Lives for their want of judgment, fidelity, &amp; valour, or through their neglect of duty in their ſeverall places, they muſt give a ſtrict accompt for thoſe mens lives at the laſt day, and further they will ſee that there is no neceſſary duty to be performed by thoſe Officers which in this my weake Eſayes I have excluded.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
